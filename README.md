@@ -5,7 +5,7 @@ Easy Navigation: User-friendly interface with intuitive navigation.
 Real-time Updates: Instantly see filtered results as you select or deselect tags.
 Customizable: Easily add new tags or courses through a simple JSON configuration.
 
-Tech Stack
+Tech Stack:-
 Frontend: React, JavaScript, HTML, CSS
 State Management: React Hooks
 Styling: CSS Modules / Styled Components
